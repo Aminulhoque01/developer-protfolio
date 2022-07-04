@@ -25,7 +25,6 @@ p{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    margin:0%;
    
 }
 .half-weidth{
@@ -67,9 +66,7 @@ img{
 }
 
 
-.exdiv{
-    display: flex;
-}
+
 
 .exp-weidth{
     width:50%;
@@ -93,6 +90,7 @@ color:gray;
 
    
 .exdiv{
+    display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat:no-repeat ;
     background-position:left;
